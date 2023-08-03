@@ -1,0 +1,10 @@
+1. Account loading by .txt
+    dynamic parsing
+2. Proxy loading by .txt
+    dynamic parsing
+3. Parallelism with HTTPX/TRIO
+4. Optional mongoDB account tracking
+5. counts 
+6. captcha support anti captcha
+7. cloud-scraper support
+
